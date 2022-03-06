@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como estágiario de suporte
 - 🌱 Estudando HTML/CSS/Javascript 
-- 😄 Pronouns:ele/dele
 
 <div>
   <a href="https://github.com/picuti256">
