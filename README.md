@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Giovanne Piçuti 
 
-- 🔭 Hoje trabalho como estágiario de suporte
-- 🌱 Estudando HTML/CSS/Javascript 
+- 🔭 Atuando como estágiario de desenvolvimento
+- 🌱 Estudando HTML/CSS/JS
 
 <div>
   <a href="https://github.com/picuti256">
