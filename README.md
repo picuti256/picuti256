@@ -1,4 +1,4 @@
-## Hello! Giovanne Piçuti 
+## Hello! I'm Giovanne Piçuti! 
 
 - 🔭 Working as Front-end developer intern
 - 🌱 Studying Typescript/Python/React
