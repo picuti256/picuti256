@@ -1,7 +1,7 @@
-## Olá! Eu sou o Giovanne Piçuti 
+## Hello! Giovanne Piçuti 
 
-- 🔭 Atuando como estágiario de desenvolvimento
-- 🌱 Estudando HTML/CSS/JS/jQuery/Typescript
+- 🔭 Working as Front-end developer intern
+- 🌱 Studying Typescript/Python/React
 
 <div>
   <a href="https://github.com/picuti256">
