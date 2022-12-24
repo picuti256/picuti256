@@ -1,7 +1,7 @@
 ## Hello! I'm Giovanne Piçuti! 
 
 - 🔭 Working as Front-end developer intern
-- 🌱 Studying Python/React
+- 🌱 Studying Python / React.js / Typescript
 
 <div>
   <a href="https://github.com/picuti256">
