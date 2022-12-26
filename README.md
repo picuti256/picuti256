@@ -25,5 +25,4 @@
   <a href="https://www.linkedin.com/in/giovanne-piçuti-84086914a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/picuti256/picuti256/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
