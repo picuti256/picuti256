@@ -1,7 +1,7 @@
 ## Hello! I'm Giovanne Piçuti! 
 
-- 🔭 Working as Junior Front-end Developer
-- 🌱 Next.JS / React Native / Typescript 
+- 🔭 Working as Junior Full Stack Developer
+- 🌱 Next.JS / Node.JS / Typescript 
 
 <div>
   <a href="https://github.com/picuti256">
