@@ -1,7 +1,7 @@
 ## Hello! I'm Giovanne Piçuti! 
 
-- 🔭 Working as Junior Full Stack Developer
-- 🌱 Next.JS / Nest.JS / Typescript 
+- 🔭 Full Stack Developer
+- 🌱 Next.JS / Node / Nest.JS 
 
 <div>
   <a href="https://github.com/picuti256">
