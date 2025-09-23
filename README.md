@@ -1,7 +1,7 @@
 ## Hello! I'm Giovanne Piçuti! 
 
-- 🔭 Full Stack Developer
-- 🌱 Next.JS / Node / Nest.JS 
+- 🔭 Front end Developer
+- 🌱 React.JS / Next.JS 
 
 <div>
   <a href="https://github.com/picuti256">
@@ -16,6 +16,7 @@
   <img align="center" alt="picuti-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="picuti-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="picuti-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="picuti-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
 </div>
   
   ##
