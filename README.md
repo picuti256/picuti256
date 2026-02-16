@@ -1,7 +1,7 @@
 ## Hello! I'm Giovanne Piçuti! 
 
-- 🔭 Front end Developer
-- 🌱 React.JS / Next.JS 
+- 🔭 Front End Engineer
+- 🌱 React.JS / Next.JS / WordPress 
 
 <div>
   <a href="https://github.com/picuti256">
@@ -9,14 +9,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picuti256&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="picuti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="picuti-next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="picuti-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="picuti-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="picuti-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="picuti-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="picuti-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
 </div>
   
   ##
