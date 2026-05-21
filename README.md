@@ -1,7 +1,8 @@
 ## Hello! I'm Giovanne Piçuti! 
 
-- 🔭 Front End Engineer
-- 🌱 React.JS / Next.JS / WordPress 
+- 🔭 Senior Software Developer
+- 🌱 React.JS / Next.JS / Node.JS
+- 📖 Kotlin
 
 <div>
   <a href="https://github.com/picuti256">
