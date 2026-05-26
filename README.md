@@ -2,7 +2,7 @@
 
 - 🔭 Senior Software Developer
 - 🌱 React.JS / Next.JS / Node.JS
-- 📖 Kotlin
+- 📖 Kotlin / React Native
 
 <div>
   <a href="https://github.com/picuti256">
